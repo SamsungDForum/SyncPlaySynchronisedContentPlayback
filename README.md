@@ -38,7 +38,7 @@ SyncPlay/ - PlayerAvplay sample app root folder
 │
 ├── fonts/ - fonts used by this app
 │   │
-│   └── SAMSUNGSHARPSANS-REGULAR.OTF - font used in application
+│   └── SamsungOneUI-400.ttf - font used in application
 │  
 │
 ├── css/ - styles used in the application
